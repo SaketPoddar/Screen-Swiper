@@ -12,7 +12,7 @@ import {
 } from 'react-native';
 import Swiper from 'react-native-swiper';
 
-// Screen-Swiper (CameraApp)
+// CameraApp (Screen-Swiper)
 
 const { width, height } = Dimensions.get('window');
 
