@@ -12,6 +12,8 @@ import {
 } from 'react-native';
 import Swiper from 'react-native-swiper';
 
+//CameraApp
+
 const { width, height } = Dimensions.get('window');
 
 const slides = [
